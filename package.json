@@ -17,6 +17,9 @@
       }
     ]
   },
+  "scripts": {
+    "build": "node build/"
+  },
   "repository": "https://github.com/mitchreece/vscode-theme",
   "author": "mitchreece <mitchellreece18@gmail.com>",
   "license": "MIT",
