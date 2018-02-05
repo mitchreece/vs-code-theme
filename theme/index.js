@@ -2,7 +2,12 @@ const { colors } = require('@mitchreece/theme-variables')
 
 module.exports = {
     colors: {
-        "editor.background": colors.primary,
-        "editor.foreground": colors.fontLight
+        "statusBar.background": colors.primary,
+        "statusBar.foreground": colors.secondary,
+        "statusBarItem.hoverBackground": colors.primaryDark,
+        "statusBarItem.prominentHoverBackground": colors.fontLight,
+        "statusBar.noFolderBackground": colors.primaryDark,
+        "statusBar.debuggingBackground": colors.secondary,
+        "statusBar.debuggingForeground": colors.fontLight,
     }
 }

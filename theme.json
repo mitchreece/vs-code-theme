@@ -1,6 +1,1 @@
-{
-    "name": "myTheme",
-    "type": "dark",
-    "colors": {},
-    "tokenColors": []
-}
+{"name":"myTheme","type":"dark","colors":{"statusBar.background":"#100A11","statusBar.noFolderBackground":"#09060A","statusBar.foreground":"#00A99D","statusBarItem.hoverBackground":"#09060A","statusBarItem.prominentHoverBackground":"#EEEEEE","statusBar.debuggingBackground":"#00A99D","statusBar.debuggingForeground":"#EEEEEE"},"tokenColors":[]}
