@@ -10,6 +10,13 @@ module.exports = {
         "titleBar.activeBackground": colors.primaryDark,
         "titleBar.activeForeground": colors.secondary,
         "titleBar.inactiveBackground": colors.primary,
+
+        "editorGroupHeader.tabsBackground": colors.primaryDark,
+        "tab.activeBackground": colors.primaryDark,
+        "tab.activeForeground": colors.secondary,
+        "tab.border": colors.primaryDark,
+        "tab.inactiveBackground": colors.primaryDark,
+        "tab.inactiveForeground": `${colors.fontLight}CC`,
  
         "statusBar.background": colors.primary,
         "statusBar.foreground": colors.secondary,
