@@ -7,6 +7,10 @@ module.exports = {
         "activityBarBadge.background": colors.secondary,
         "activityBarBadge.foreground": colors.fontLight,
         
+        "titleBar.activeBackground": colors.primaryDark,
+        "titleBar.activeForeground": colors.secondary,
+        "titleBar.inactiveBackground": colors.primary,
+ 
         "statusBar.background": colors.primary,
         "statusBar.foreground": colors.secondary,
         "statusBarItem.hoverBackground": colors.primaryDark,
