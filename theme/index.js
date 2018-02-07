@@ -8,7 +8,7 @@ module.exports = {
         "activityBarBadge.foreground": colors.fontLight,
         
         "titleBar.activeBackground": colors.primaryDark,
-        "titleBar.activeForeground": colors.secondary,
+        "titleBar.activeForeground": `${colors.secondary}9C`,
         "titleBar.inactiveBackground": colors.primary,
 
         "editorGroupHeader.tabsBackground": colors.primaryDark,
@@ -17,7 +17,7 @@ module.exports = {
         "tab.border": colors.primaryDark,
         "tab.inactiveBackground": colors.primaryDark,
         "tab.inactiveForeground": `${colors.fontLight}CC`,
- 
+
         "statusBar.background": colors.primary,
         "statusBar.foreground": colors.secondary,
         "statusBarItem.hoverBackground": colors.primaryDark,
