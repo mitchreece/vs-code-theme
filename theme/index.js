@@ -14,6 +14,9 @@ module.exports = {
         "activityBar.background": colors.primary,
 
         "sideBar.background": colors.primary,
+        "sideBarTitle.foreground": colors.secondary,
+        "sideBarSectionHeader.background": `${colors.secondary}C1`,
+        "sideBarSectionHeader.foreground": colors.primary,
 
         "editor.background": colors.primary,
         
