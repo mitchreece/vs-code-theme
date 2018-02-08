@@ -41,6 +41,10 @@ module.exports = {
         "tab.inactiveBackground": colors.primary,
         "tab.inactiveForeground": `${colors.fontLight}CC`,
 
+        "panel.border": colors.primary,
+        "panelTitle.activeBorder": colors.secondary,
+        "panelTitle.activeForeground": colors.secondary,
+
         "statusBar.background": colors.primary,
         "statusBar.foreground": `${colors.secondary}9C`,
         "statusBarItem.hoverBackground": colors.primaryDark,
