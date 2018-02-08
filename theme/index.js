@@ -12,6 +12,7 @@ module.exports = {
         "titleBar.inactiveBackground": colors.primary,
 
         "activityBar.background": colors.primary,
+        "activityBar.foreground": colors.fontLight,
 
         "sideBar.background": colors.primary,
         "sideBarTitle.foreground": colors.secondary,
