@@ -29,7 +29,7 @@ module.exports = {
         "tab.inactiveForeground": `${colors.fontLight}CC`,
 
         "statusBar.background": colors.primary,
-        "statusBar.foreground": colors.secondary,
+        "statusBar.foreground": `${colors.secondary}9C`,
         "statusBarItem.hoverBackground": colors.primaryDark,
         "statusBarItem.prominentHoverBackground": colors.fontLight,
         "statusBar.noFolderBackground": colors.primaryDark,
