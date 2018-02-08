@@ -6,6 +6,16 @@ module.exports = {
         "badge.foreground": colors.fontLight,
         "activityBarBadge.background": colors.secondary,
         "activityBarBadge.foreground": colors.fontLight,
+
+        "button.background": `${colors.secondary}9C`,
+        "button.foreground": colors.primary,
+        "button.hoverBackground": colors.secondary,
+
+        "dropdown.background": colors.primaryDark,
+
+        "input.background": colors.primaryDark,
+        "input.foreground": colors.secondary,
+        "input.placeholderForeground": `${colors.secondary}C1`,
         
         "titleBar.activeBackground": colors.primaryDark,
         "titleBar.activeForeground": `${colors.secondary}9C`,
