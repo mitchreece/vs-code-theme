@@ -5,6 +5,8 @@ module.exports = {
         focusBorder: `${colors.secondary}C1`,
         foreground: colors.fontLight,
 
+        "textLink.foreground": colors.secondary,
+
         "badge.background": colors.secondary,
         "badge.foreground": colors.fontLight,
         "activityBarBadge.background": colors.secondary,
