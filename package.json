@@ -23,8 +23,8 @@
   "repository": "https://github.com/mitchreece/vscode-theme",
   "author": "mitchreece <mitchellreece18@gmail.com>",
   "license": "MIT",
-  "dependencies": {},
   "devDependencies": {
-    "@mitchreece/theme-variables": "^1.0.0"
+    "@mitchreece/theme-variables": "^1.0.0",
+    "husky": "^0.14.3"
   }
 }
