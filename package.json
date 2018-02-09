@@ -18,7 +18,8 @@
     ]
   },
   "scripts": {
-    "build": "node build/"
+    "build": "node build/",
+    "precommit": "yarn build && git add theme.json"
   },
   "repository": "https://github.com/mitchreece/vscode-theme",
   "author": "mitchreece <mitchellreece18@gmail.com>",
