@@ -22,6 +22,14 @@ module.exports = {
         "input.foreground": colors.secondary,
         "input.placeholderForeground": `${colors.secondary}C1`,
         
+        "list.hoverBackground": colors.primary,
+        "list.hoverForeground": `${colors.secondary}C1`,
+        "list.activeSelectionForeground": colors.secondary,
+        "list.activeSelectionBackground": colors.primary,
+        "list.highlightForeground": colors.secondary,
+        "list.focusForeground": colors.secondary,
+        "list.focusBackground": colors.primary,
+
         "titleBar.activeBackground": colors.primaryDark,
         "titleBar.activeForeground": `${colors.secondary}9C`,
         "titleBar.inactiveBackground": colors.primary,
