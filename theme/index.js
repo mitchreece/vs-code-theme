@@ -1,3 +1,4 @@
 module.exports = {
-    colors: require('./colors') 
+    colors: require('./colors'),
+    tokenColors: require('./tokenColors')
 }
