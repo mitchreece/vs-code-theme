@@ -4,8 +4,7 @@ module.exports = [
     {
         name: "Comments",
         scope: [
-            "comment.block",
-            "comment.line",
+            "comment",
         ],
         settings: {
             foreground: `${colors.secondary}85`,
