@@ -8,6 +8,15 @@ module.exports = [
         ],
         settings: {
             foreground: `${colors.fontLight}65`,
+        }
+    },
+    {
+        name: 'Italic',
+        scope: [
+            "variable.language",
+            "comment",
+        ],
+        settings: {
             fontStyle: 'italic',
         }
     },
