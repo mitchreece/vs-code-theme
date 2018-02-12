@@ -25,6 +25,7 @@ module.exports = [
     {
         scope: [
             "storage.type",
+            "variable.language",
         ],
         settings: {
             foreground: '#7E57C2',
@@ -33,7 +34,7 @@ module.exports = [
     {
         scope: [
             "support",
-            "variable.language",
+            "keyword.control",
         ],
         settings: {
             foreground: '#BA68C8',
