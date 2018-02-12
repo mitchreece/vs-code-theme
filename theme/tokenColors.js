@@ -48,5 +48,29 @@ module.exports = [
         settings: {
             foreground: '#BA68C8',
         }
+    },
+    {
+        scope: [
+            "constant",
+        ],
+        settings: {
+            foreground: "#EC407A",
+        }
+    },
+    {
+        scope: [
+            "constant.numeric",
+        ],
+        settings: {
+            foreground: "#3949AB",
+        }
+    },
+    {
+        scope: [
+            "string",
+        ],
+        settings: {
+            foreground: '#7986CB',
+        }
     }
 ]
