@@ -25,10 +25,18 @@ module.exports = [
     {
         scope: [
             "storage.type",
-            "variable.language",
         ],
         settings: {
             foreground: '#7E57C2',
         }
     },
+    {
+        scope: [
+            "support",
+            "variable.language",
+        ],
+        settings: {
+            foreground: '#BA68C8',
+        }
+    }
 ]
