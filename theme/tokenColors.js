@@ -68,9 +68,35 @@ module.exports = [
     {
         scope: [
             "string",
+            "entity.other.attribute-name.id",
         ],
         settings: {
             foreground: '#7986CB',
+        }
+    },
+    {
+        scope: [
+            "entity.name.tag",
+            "entity.name.section",
+        ],
+        settings: {
+            foreground: '#C2185B',
+        }
+    },
+    {
+        scope: [
+            "entity.other.attribute-name",
+        ],
+        settings: {
+            foreground: '#81C784',
+        },
+    },
+    {
+        scope: [
+            "entity.other.attribute-name.class",
+        ],
+        settings: {
+            foreground: '#FF8A65',
         }
     }
 ]
