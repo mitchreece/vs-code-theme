@@ -11,4 +11,24 @@ module.exports = [
             fontStyle: 'italic',
         }
     },
+    {
+        scope: [
+            "variable",
+            "variable.parameter",
+            "variable.function",
+            "storage.modifier",
+        ],
+        settings: {
+            foreground: '#B39DDB',
+        }
+    },
+    {
+        scope: [
+            "storage.type",
+            "variable.language",
+        ],
+        settings: {
+            foreground: '#7E57C2',
+        }
+    },
 ]
