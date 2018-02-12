@@ -7,7 +7,7 @@ module.exports = [
             "comment",
         ],
         settings: {
-            foreground: `${colors.secondary}85`,
+            foreground: `${colors.fontLight}65`,
             fontStyle: 'italic',
         }
     },
