@@ -11,7 +11,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "myTheme",
+        "label": "Personal Theme",
         "uiTheme": "vs-dark",
         "path": "./theme.json"
       }
