@@ -2,6 +2,8 @@
 
 Personal Theme for [Visual Studio Code](https://code.visualstudio.com/) editor. Editor styles generated from personal [theme variables](https://github.com/mitchreece/theme-variables).
 
+![Theme Visual](https://github.com/mitchreece/vscode-theme/blob/master/assets/theme.png?raw=true "Theme Visual")
+
 ## Installation
 
 To install the theme, install the npm package globally:
