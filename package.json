@@ -19,6 +19,7 @@
   },
   "scripts": {
     "postinstall": "cd ./bin && chmod +x ./install.sh &&  ./install.sh",
+    "preuninstall": "cd ./bin && chmod +x ./uninstall.sh && ./uninstall.sh",
     "build": "node build/",
     "precommit": "yarn build && git add theme.json"
   },
